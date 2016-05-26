@@ -1,6 +1,6 @@
 #  Deep sentence embedding using Sequence to Sequence learning
 
-![screenshot](images/2d_pca_projection.jpg)
+![screenshot](images/2d_pca_projection.png)
 
 ## Installing
 
