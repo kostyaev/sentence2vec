@@ -40,7 +40,7 @@ Use the `--dataset NUMBER` option to control the size of the dataset. Training o
 The model will be saved to `data/model.t7` after each epoch if it has improved (error decreased).
 
 ## Getting a pretrained model
-Download the pretraned[model](https://drive.google.com/file/d/0BwsDa5L6bdMpTC1GUEtPbWE2Zms/view?usp=sharing) and put it into the data directory.
+Download the pretraned [model](https://drive.google.com/file/d/0BwsDa5L6bdMpTC1GUEtPbWE2Zms/view?usp=sharing) and put it into the data directory.
 
 ## Extracting embeddings from sentences
 Run the following command
