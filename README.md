@@ -53,6 +53,8 @@ Run the following command
 th -i extract_embeddings.lua --model_file data/model.t7 --input_file data/test_sentences.txt --output_file data/embeddings.t7 --cuda
 ```
 
+To visualize 2D projections of the embeddings refer to: [example.ipynb](https://github.com/kostyaev/sentence2vec/blob/master/example.ipynb)
+
 ## Acknowledgments
 This implementation utilizes code from [Marc-André Cournoyer's repo](https://github.com/macournoyer/neuralconvo)
 
